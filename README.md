@@ -1,6 +1,7 @@
 # cs190j_buggy
 Assignment for cs190j
 
-The conceptual question: compilation process
+The conceptual question: How does pointer work?
 
-The programming question:
+The programming question: buggy.cpp
+Detail: When computing estimate for pi, one common mistake is not reset initial value of pi to be 0 for every time the user inputs a number.
